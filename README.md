@@ -1,2 +1,3 @@
 # Edis
-simple node project
+Digital Clock and
+Simple Multiplication App
